@@ -1,2 +1,2 @@
 # examples
-Great Code Examples found during my studies.
+Great code examples and toolkit for future use.
