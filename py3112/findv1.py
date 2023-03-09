@@ -12,7 +12,7 @@ def find_all(name, path):
             result.append(os.path.join(root,name))
     return result
     
-default_path = "C:\\Users\\v-mbranche\\Documents\\skuqual"
+default_path = "C:\\"
 
 i = find_all("crd", default_path)
 print (index)
